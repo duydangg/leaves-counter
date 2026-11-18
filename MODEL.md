@@ -43,3 +43,6 @@ print(r.quality.passed, r.leaf_count, [l.to_dict() for l in r.leaves])
   (`calibration.from_two_points`).
 - Chụp vuông góc với phiến lá. Lá bị nghiêng hoặc che khuất sẽ bị đo ngắn hơn thực tế; những lá chạm mép ảnh
   hoặc bị che nhiều được đánh dấu `reliable=false`.
+
+## File PT
+Liên hệ dangnguyenduyvn@gmail.com

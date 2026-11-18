@@ -1,0 +1,6 @@
+numpy
+opencv-contrib-python-headless>=4.8
+pillow
+pillow-heif
+scikit-image
+ultralytics>=8.3
